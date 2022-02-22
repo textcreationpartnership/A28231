@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A few words in season, or, A warning from the Lord to friends of truth that they take heed of security because of the present calme on the one hand, and of fearing, because of the fury of the oppressor that may arise on the other : with some other words of weight to Friends in this hour wherein the Lord is drawing nigh to judgement to save all the meek of the earth : as they were wrote upon the occasions aforesaid to a Friend in London at the movings of the Lord, in which they are now published / by Geo. Bishope.</title>
+            <author>Bishop, George, d. 1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28231</idno>
+            <idno type="STC">Wing B2993</idno>
+            <idno type="STC">ESTC R19785</idno>
+            <idno type="EEBO-CITATION">12400293</idno>
+            <idno type="OCLC">ocm 12400293</idno>
+            <idno type="VID">61259</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28231)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61259)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 270:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A few words in season, or, A warning from the Lord to friends of truth that they take heed of security because of the present calme on the one hand, and of fearing, because of the fury of the oppressor that may arise on the other : with some other words of weight to Friends in this hour wherein the Lord is drawing nigh to judgement to save all the meek of the earth : as they were wrote upon the occasions aforesaid to a Friend in London at the movings of the Lord, in which they are now published / by Geo. Bishope.</title>
+                  <author>Bishop, George, d. 1668.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rob. Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warnings.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61259:1"/>
+            <pb facs="tcp:61259:1"/>
+            <p>A FEW WORDS IN SEASON: OR, A <hi>WARNING</hi> from the <hi>LORD</hi> to <hi>Friends</hi> of
+<hi>Truth.</hi>
+            </p>
+            <p>THAT <hi>They</hi> take heed of <hi>Security,</hi> becauſe of the <hi>Preſent</hi> Calme on the <hi>One</hi> hand, and of <hi>Fearing,</hi> becauſe of the <hi>Fury</hi> of the
+<hi>Oppreſſor</hi> that <hi>may</hi> ariſe On the <hi>Other.</hi>
+            </p>
+            <p>WITH Some <hi>other</hi> words of <hi>Weight</hi> to <hi>Friends</hi> in this <hi>Hour,</hi> where<g ref="char:EOLhyphen"/>in the <hi>Lord</hi> is drawing <hi>nigh</hi> to <hi>Judgement,</hi> to <hi>ſave all the Meek of the Earth.</hi>
+            </p>
+            <p>AS <hi>They</hi> were wrote upon the <hi>Occaſions</hi> aforeſaid to a <hi>Friend</hi> in
+<hi>London,</hi> at the <hi>Movings</hi> of the <hi>Lord,</hi> in which <hi>They</hi> are
+<hi>now</hi> Publiſhed.</p>
+            <p>By <hi>Geo. Biſhope.</hi>
+            </p>
+            <q>
+               <p>Behold! I have told ye before</p>
+               <p>Take heed to your ſelves, leaſt at any time your hearts be Overcharged with ſurfeit<g ref="char:EOLhyphen"/>ing, and Drunkenneſs, and Cares of this Life; and ſo that day come upon you unawares.</p>
+               <p>Except Thou Watch, behold! I come as a Theif in the Night.</p>
+               <p>For as in the days that were before the Flood, they were Eating and Drinking, Marrying, and giving in Marriage, untill the day that <hi>Noah</hi> entred into the <hi>Ark,</hi> and knew not untill the Flood came, and took them all away; ſo ſhall alſo the Coming of the ſon of man be.</p>
+               <p>For, When they ſhall ſay Peace, and Safety, then ſudden Deſtruction cometh upon Them, as Travail upon a woman with Child, and they ſhall not eſcape.</p>
+               <p>For the time is Come, That Judgement muſt begin at the Houſe of God, and if it firſt begin at <g ref="char:V">Ʋ</g>s, What ſhall the End be of them that Obey not the Goſpel of God? And if the Righteous ſcarcely be ſaved, where ſhall the <g ref="char:V">Ʋ</g>ngodly, and Sinners Appear?</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Rob. Wilſon,</hi> at the Signe of the
+<hi>Black-ſpread-Eagle</hi> and <hi>Winde-mill</hi> in <hi>Martins le Grand,</hi> 1660</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:61259:2"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <head>A <hi>Few</hi> Words in <hi>Seaſon,</hi> &amp;c.</head>
+                        <opener>
+                           <salute>Dear Friend,</salute>
+                        </opener>
+                        <p>I Have <hi>thy</hi> Letter; and as for <hi>thoſe</hi> who put the <hi>Day</hi> of the <hi>Lord a far off,</hi> Let <hi>them</hi> take heed leaſt <hi>it</hi> come upon <hi>them unawares,</hi> as a <hi>Theif</hi> in the <hi>Night.</hi> For, <hi>this I</hi> know, <hi>It is even Come,</hi> and the <hi>Things I</hi> have ſpoken <hi>will</hi> come to paſſe, and be fulfilled in
+<hi>their</hi> ſeaſon; and <hi>Bleſſed</hi> is <hi>he</hi> that <hi>Watcheth,</hi> and
+<hi>keepeth his</hi> Garments, leaſt <hi>his</hi> nakedneſs be ſeen, and <hi>his</hi> ſhame Diſcovered: But <hi>this I</hi> ſee, that the <hi>End</hi> of the <hi>Lord</hi> in
+<hi>this</hi> preſent Calmneſſe, wherein, by the <hi>Preſervation</hi> of <hi>his</hi> People in the <hi>midſt</hi> of <hi>their</hi> Enemies, when the <hi>Flood thought</hi> to have.
+<hi>Over<g ref="char:EOLhyphen"/>whelm'd them,</hi> and <hi>they</hi> were <hi>betrayed</hi> for <hi>that</hi> purpoſe; and by <hi>his Turning</hi> again for a <hi>little</hi> time the <hi>Flood</hi> into the
+<hi>Deep,</hi> and ſaying, <hi>Hitherto ſhall Thy Proud Waves go, and no further; He</hi> hath made <hi>it</hi> Appear that <hi>his</hi> Kingdom <hi>is Come,</hi> and that <hi>he</hi> hath a
+<hi>People</hi> whom <hi>he</hi> can <hi>preſerve,</hi> to the <hi>Aſtoniſhment</hi> of
+<hi>all; I</hi> ſay, the <hi>End</hi> of the <hi>Lord</hi> in <hi>all</hi> this, which is, That
+<hi>Friends</hi> may mind <hi>their</hi> being in <hi>him</hi> who <hi>ſitteth on the Floods,</hi> before the <hi>next</hi> ſtorm ariſe, which <hi>may</hi> be ſudden, that
+<hi>ſo</hi> the <hi>Extremity</hi> of <hi>both, within,</hi> and <hi>without,</hi> come not upon
+<hi>Them at Once,</hi> is <hi>much</hi> un<g ref="char:EOLhyphen"/>anſwered by <hi>ſome,</hi> and the <hi>Enemy</hi> hath the <hi>Day</hi> to <hi>put</hi> the <hi>Day</hi> of the <hi>Lord afar off,</hi> and
+<hi>ſteal them aſide</hi> to <hi>Eat,</hi> and to <hi>Drink,</hi> and to <hi>riſe</hi> up to
+<hi>Play,</hi> that <hi>ſo it</hi> may be with <hi>them</hi> as in the <hi>Dayes</hi> of
+<hi>Noah;</hi> and <hi>know not till the Flood come, and ſweep them away.</hi> This <hi>I</hi> feel, and for <hi>this I</hi> ſuffer; and the <hi>Nights</hi> of <hi>my</hi> pleaſure are
+<hi>turned</hi> into <hi>heavineſs</hi> for <hi>this,</hi> and <hi>I</hi> go <hi>bowed</hi> down
+<hi>all</hi> the day long, that <hi>ſo</hi> in <hi>their</hi> day <hi>Every</hi> One <hi>may</hi> know the <hi>Things</hi> that
+<pb facs="tcp:61259:2"/>
+                           <hi>belong</hi> to <hi>their</hi> Peace. And <hi>this Perverting</hi> of the <hi>End</hi> of the <hi>Lord,</hi> may bring <hi>Another</hi> day before
+<hi>they</hi> are <hi>aware;</hi> For, let not <hi>any</hi> be miſtaken, <hi>their</hi> hour is not <hi>yet</hi> paſt thorough, which <hi>will</hi> try <hi>them to the uttermoſt, within,</hi> and <hi>without;</hi> Nor the <hi>Day</hi> the <hi>like</hi> was <hi>never,</hi> nor <hi>ſhall be</hi> after <hi>it,</hi> wherein the <hi>things that are</hi> ſhall <hi>paſſe</hi> away, and the <hi>Earth</hi> be <hi>removed</hi> as a <hi>Cottage,</hi> and <hi>ſtagger</hi> as a
+<hi>Drunken</hi> man, and <hi>this</hi> muſt be <hi>paſſed thorough;</hi> and the
+<hi>Bitter</hi> Cup <hi>Drunk,</hi> and the <hi>Brook</hi> in the <hi>Way,</hi> and the
+<hi>Baptiſme,</hi> Ere the <hi>Seed Reign Over all,</hi> and <hi>time</hi> be <hi>no</hi> more, and the <hi>Kingdomes</hi> of the <hi>Earth become</hi> the <hi>Lords,</hi> and <hi>his Chriſts,</hi> and <hi>God</hi> be <hi>known,</hi> and <hi>Glorified</hi> in the <hi>Earth;</hi> and <hi>Old</hi> Satan, the <hi>Deceiver</hi> be <hi>caſt</hi> into the <hi>Pit;</hi> and
+<hi>Hallelujah's, Praiſe,</hi> and <hi>Glory,</hi> and <hi>Honour</hi> be <hi>ſung</hi> by the
+<hi>Redeemed</hi> from the <hi>Earth</hi> to the <hi>Lamb</hi> for <hi>Ever.</hi> And in <hi>this Hour</hi> of <hi>Darkneſſe, All</hi> deceiveableneſs of unrighteouſneſſe; <hi>all</hi> Artifices and Workings, Tryalls and Temptations <hi>imaginable will be,</hi> and <hi>more</hi> than
+<hi>can</hi> be <hi>thought</hi> of, to <hi>de<g ref="char:EOLhyphen"/>ceive, if it were poſſible the very Elect; Behold, I have told you before.</hi> And ſo <hi>my</hi> Dear Friend, and <hi>all</hi> that
+<hi>Dwell</hi> in the <hi>ſence</hi> of <hi>God,</hi> and the <hi>feeling</hi> of <hi>his</hi> Preſence; and of <hi>your</hi> Enemy, know <hi>aſſuredly</hi> the <hi>hour is Come,</hi> wherein <hi>You muſt</hi> be <hi>tryed</hi> to the <hi>uttermoſt;</hi> yea, the <hi>Seed</hi> of <hi>God</hi> in <hi>ye</hi> to the <hi>uttermoſt;</hi> Yea, <hi>before</hi> the <hi>World</hi> too; for <hi>before</hi> the <hi>World</hi> will <hi>he</hi> Crown <hi>It</hi> in the
+<hi>ſight</hi> of <hi>his</hi> Ene<g ref="char:EOLhyphen"/>mies, and ſo <hi>before</hi> the <hi>World It</hi> muſt be
+<hi>Tryed</hi> to <hi>get</hi> himſelf a <hi>Name,</hi> and a <hi>Praiſe,</hi> ſuch as
+<hi>Never</hi> hath been, nor <hi>ſhall</hi> be, the <hi>Lord hath ſpoken it. Bleſſed</hi> is <hi>he</hi> that <hi>Endures</hi> to the <hi>End,</hi> the <hi>ſame ſhall be ſaved.</hi> And <hi>ſo</hi> in <hi>Dearneſs</hi> of <hi>Love I</hi> ſalute <hi>Thee;</hi> and
+<hi>all</hi> that <hi>wait</hi> for <hi>Our</hi> Lord Jeſus, and <hi>his</hi> Comming, to
+<hi>whom</hi> be <hi>Glory,</hi> and <hi>Honour,</hi> and <hi>Domi<g ref="char:EOLhyphen"/>nion</hi> for <hi>Ever:</hi>
+                        </p>
+                        <closer>
+                           <dateline>
+                              <hi>Briſtol</hi>
+                              <date>23. 4th. <hi>Mouth,</hi> 1660.</date>
+                           </dateline>
+                           <signed>Geo. Biſhope.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <pb facs="tcp:61259:3" rendition="simple:additions"/>
+                        <opener>
+                           <salute>Dear Friend,</salute>
+                        </opener>
+                        <p>IT will be <hi>well</hi> if <hi>no</hi> Papers come forth but <hi>ſuch</hi> as
+<hi>ſtand</hi> in the <hi>Au<g ref="char:EOLhyphen"/>thority</hi> of <hi>God, his</hi> Wiſdome, and Councell, that ſo
+<hi>no</hi> offence may be by <hi>reaſon</hi> of the <hi>Contrary,</hi> nor <hi>Oceaſion</hi> of <hi>ſtumbling</hi> given; Nor <hi>Truth brought</hi> Under. For <hi>onely</hi> it is the
+<hi>Eternall</hi> dominion which gives <hi>this</hi> Liberty, and <hi>ſtop's</hi> the
+<hi>Overflowings</hi> of the <hi>Flood:</hi> In <hi>his</hi> Councell, and Wiſdome, there <hi>is onely</hi> Safety, and <hi>all</hi> other things <hi>are</hi> to be <hi>forborn:</hi> For,
+<hi>We</hi> bear the <hi>Name</hi> of the <hi>Lord,</hi> and <hi>his</hi> Truth, and <hi>he</hi> will be <hi>glorified in <g ref="char:V">Ʋ</g>s.</hi> According to, and in, and through <hi>him</hi> let <hi>Our</hi> Actings be, that <hi>he</hi> in <hi>all</hi> things may be <hi>glorified by <g ref="char:V">Ʋ</g>s.</hi> For it is not <hi>Every</hi> Thing that in <hi>Simplicity may be;</hi> Nor what <hi>may</hi> be <hi>felt</hi> in the <hi>living,</hi> but <hi>What</hi> the <hi>Lord</hi> moves unto, and <hi>his</hi> Wiſdome directs to be <hi>Wrot,</hi> or <hi>ſaid,</hi> that <hi>beares</hi> the <hi>Authority,</hi> and
+<hi>gives</hi> the <hi>Dominion: I</hi> Write <hi>this</hi> becauſe <hi>I</hi> am ſenſible of an <hi>Aptneſſe</hi> in <hi>many</hi> to <hi>bring forth</hi> the <hi>Simplicity without</hi> the <hi>Wiſdome</hi> of <hi>God,</hi> which <hi>betrayes</hi> Truth, <hi>onely</hi> the
+<hi>Lord</hi> hath regard to <hi>his</hi> Truth, and the condition of <hi>ſuch</hi> friends
+<hi>oft</hi> times, and help's <hi>it</hi> Out.</p>
+                        <p>And if <hi>any</hi> thing be <hi>done, Wrot,</hi> or <hi>Printed</hi> in the <hi>Name</hi> of
+<hi>Friends,</hi> let <hi>them firſt</hi> ſee it, <hi>as is Right,</hi> and be
+<hi>ſatiſfied,</hi> For <hi>there</hi> is a <hi>Great</hi> Body of <hi>Friends,</hi> and
+<hi>many</hi> ſee and Perceive, and the <hi>Seed is come;</hi> and the <hi>Seaſon</hi> is
+<hi>not</hi> ſlight, and <hi>all things ſhould bear</hi> the <hi>Authority</hi> of <hi>God</hi> which comes forth in <hi>his,</hi> or the <hi>Name</hi> of <hi>his People;</hi> On whom
+<hi>all</hi> Eyes are fixt, and in <hi>whoſe</hi> Very Authority is <hi>Our</hi> ſtanding who makes <hi>all Subjects</hi> Unto <hi>It;</hi> and <hi>whoſe Kingdom is come</hi> which is an
+<hi>E<g ref="char:EOLhyphen"/>verlaſting</hi> Kingdom, and <hi>his</hi> Dominion <hi>that which</hi> ſhall
+<hi>never</hi> have end.</p>
+                        <p>And it is not that the <hi>Powers of Darkneſſe</hi> have <hi>not,</hi> nor <hi>do</hi> Work; Or that the <hi>Flood</hi> did not <hi>come</hi> to <hi>Overflow</hi> all; Or that it
+<hi>lifted</hi> not <hi>
+                              <g ref="char:V">Ʋ</g>p its</hi> Voice; Or that <hi>It</hi> hath <hi>not</hi> been, nor
+<hi>is</hi> felt, and <hi>turned back</hi> into the <hi>Deep;</hi> and <hi>there</hi> kept that
+<hi>this</hi> Calme <hi>is,</hi> and <hi>hath</hi> been <hi>hitherto,</hi> but through
+<hi>
+                              <g ref="char:V">Ʋ</g>nſpeakble</hi> Sufferings is <hi>it</hi> come to paſs that a <hi>Standard</hi> hath been, and <hi>is</hi> lifted up <hi>againſt it;</hi> Therefore, <hi>take heed of bringing Truth under,</hi> through <hi>fear</hi> of the <hi>Fury</hi> of the <hi>Oppreſſor;</hi> Or
+<hi>Stooping it</hi> to the <hi>Dread</hi> of <hi>Times;</hi> Or <hi>bowing It</hi> to <hi>Man, whoſe breath is in his Noſtrils,</hi> but in the <hi>Dominion which is Eter<g ref="char:EOLhyphen"/>nal, the alone Sanctuary</hi> of <hi>Truth, ſtand over</hi> them <hi>all;</hi> And if any <hi>Warne,</hi> Let
+<hi>it</hi> be in the <hi>Authority</hi> of <hi>God,</hi> and if <hi>any Write,</hi> Let
+<hi>it</hi> be in the <hi>very</hi> Wiſdom that <hi>God</hi> giveth; For <hi>this</hi> Generation
+<hi>muſt</hi> be <hi>touched,</hi> and <hi>will</hi> fill up <hi>their</hi> Meaſure; and
+<hi>have their</hi> End, <hi>after</hi> the <hi>Lord</hi> hath accompliſhed <hi>his</hi> Work by
+<hi>them</hi> which is <hi>Very</hi> great, and <hi>drawn</hi> forth <hi>thoſe</hi> who are
+<hi>Appointed</hi> to <hi>life;</hi> and <hi>the time haſtens,</hi> In <hi>Tenderneſs</hi> to
+<hi>Truth,</hi> &amp; <hi>regard</hi> to <hi>It's</hi> Majeſty, which is <hi>Dea<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>er</hi> to <hi>me then</hi> All; and a <hi>Deep</hi> Sence that is <hi>
+                              <g ref="char:V">Ʋ</g>pon me,</hi> do <hi>I thus write.</hi>
+                        </p>
+                        <closer>
+                           <dateline>
+                              <hi>Briſtol</hi>
+                              <date>the 2d 5 Month, 1660.</date>
+                           </dateline>
+                           <signed>
+                              <hi>Geo. Biſh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>pe.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb facs="tcp:61259:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
